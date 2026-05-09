@@ -81,7 +81,7 @@ A console-based Railway Management System developed in Java that allows admins t
 
 
 ## **Contributing** 🤝
-Contributions are welcome! If you’d like to improve LetMeCut, feel free to fork the repo and submit a pull request.
+Contributions are welcome! If you’d like to improve it, feel free to fork the repo and submit a pull request.
 
 ### **Steps to Contribute:**
 **Fork the repository**
